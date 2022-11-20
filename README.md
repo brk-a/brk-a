@@ -1,4 +1,4 @@
-- 👋🏿 Hi, I’m F Njakai
+- 👋🏿 Hi, I’m F. Njakai
 - 👀 I’m interested in Back-end dev, Data Science and Investing
 - 🌱 I’m currently learning D3.js
 - 🫱🏻‍🫲🏿 I’m looking to collaborate on Data Vis, ML and APIs
