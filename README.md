@@ -1,8 +1,7 @@
-- 👋🏿 Hi, I’m F. Njakai
-- 👀 I’m interested in Back-end dev, Data Science and Investing
-- 🌱 I’m currently learning D3.js
-- 🫱🏻‍🫲🏿 I’m looking to collaborate on Data Vis, ML and APIs
-
+- 👋🏿 Hi, I’m F Njakai
+- 👀 Interested in Back-end dev, Data Science and Investing
+- 🌱 Currently learning D3.js
+- 🫱🏿‍🫲🏻 Looking to collaborate on Data Vis, ML and APIs
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/francis-n-6b61b2a0)
 
 <!---
