@@ -2,7 +2,7 @@
 - 👀 Interested in Back-end dev, Data Science and Investing
 - 🌱 Currently learning D3.js
 - 🫱🏿‍🫲🏻 Looking to collaborate on Data Vis, ML and APIs
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/francis-n-6b61b2a0)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fnjakai)
 
 <!---
 brk-a/brk-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
