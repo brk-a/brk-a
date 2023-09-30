@@ -1,6 +1,6 @@
 - 👋🏿 Hi. I’m F Njakai
-- 👀 Interested in Back-end dev, Data Science and Pentesting
-- 🌱 Currently learning Django and Next.js
+- 👀 Interested in Back-end dev, Data Science, Web 3 and Pentesting
+- 🌱 Currently learning Django, Solidity, Next.js and API Sec
 - 🫱🏿‍🫲🏻 Looking to collaborate on Data Vis, ML and API projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fnjakai)
 
