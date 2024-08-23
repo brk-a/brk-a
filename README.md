@@ -1,8 +1,8 @@
 - 👋🏿 Hi. I’m F Njakai
 - 👀 Interested in Back-end dev, Data Science, Web 3 and Pentesting
-- 🌱 Currently learning Django, Solidity, Next.js and API Sec
-- 🫱🏿‍🫲🏻 Looking to collaborate on ML, Web 3 and API projects
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fnjakai)
+- 🌱 Currently learning API Sec
+- 🫱🏿‍🫲🏻 Looking to collaborate on API, Web 3 and ML projects
+- 📫 How to reach me  [[](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtb3BhY2l0eT0iMCI+PGFuaW1hdGUgZmlsbD0iZnJlZXplIiBhdHRyaWJ1dGVOYW1lPSJmaWxsLW9wYWNpdHkiIGR1cj0iMC44cyIgdmFsdWVzPSIwOzEiLz48L2NpcmNsZT48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjQiPjxwYXRoIHN0cm9rZS1kYXNoYXJyYXk9IjEyIiBzdHJva2UtZGFzaG9mZnNldD0iMTIiIGQ9Ik00IDEwVjIwIj48YW5pbWF0ZSBmaWxsPSJmcmVlemUiIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1kYXNob2Zmc2V0IiBiZWdpbj0iMC40cyIgZHVyPSIwLjRzIiB2YWx1ZXM9IjEyOzAiLz48L3BhdGg+PHBhdGggc3Ryb2tlLWRhc2hhcnJheT0iMTIiIHN0cm9rZS1kYXNob2Zmc2V0PSIxMiIgZD0iTTEwIDEwVjIwIj48YW5pbWF0ZSBmaWxsPSJmcmVlemUiIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1kYXNob2Zmc2V0IiBiZWdpbj0iMXMiIGR1cj0iMC40cyIgdmFsdWVzPSIxMjswIi8+PC9wYXRoPjxwYXRoIHN0cm9rZS1kYXNoYXJyYXk9IjI0IiBzdHJva2UtZGFzaG9mZnNldD0iMjQiIGQ9Ik0xMCAxNUMxMCAxMi4yMzg2IDEyLjIzODYgMTAgMTUgMTBDMTcuNzYxNCAxMCAyMCAxMi4yMzg2IDIwIDE1VjIwIj48YW5pbWF0ZSBmaWxsPSJmcmVlemUiIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1kYXNob2Zmc2V0IiBiZWdpbj0iMS40cyIgZHVyPSIxcyIgdmFsdWVzPSIyNDswIi8+PC9wYXRoPjwvZz48L3N2Zz4=)](https://www.linkedin.com/in/fnjakai)
 
 <!---
 brk-a/brk-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
