@@ -1,7 +1,7 @@
 - 👋🏿 Hi. I am F Njakai
-- 👀 Interested in Back-end dev, Pentesting, Data Science and Web 3
-- 🌱 Currently learning API Sec
-- 🫱🏿‍🫲🏻 Looking to collaborate on API, Web 3 and ML projects
+- 👀 Interested in Back-end dev, Pentesting, Data Science and Embedded Systems
+- 🌱 Currently learning API Sec and Pentesting
+- 🫱🏿‍🫲🏻 Looking to collaborate on APi, ML/AI, Assembly and other low-level language projects
 - 📫 How to reach me 
   - [LinkedIn](https://www.linkedin.com/in/fnjakai)
 
